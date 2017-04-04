@@ -1,8 +1,4 @@
-# Showdown-Boilerplate
-
-[![Build Status](https://travis-ci.org/CreaturePhil/Showdown-Boilerplate.svg)](https://travis-ci.org/CreaturePhil/Showdown-Boilerplate)
-[![Dependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate)
-[![devDependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate/dev-status.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate#info=devDependencies)
+# CIPHER
 
 Showdown Boilerplate is a template for [Pokémon Showdown](https://github.com/Zarel/Pokemon-Showdown)
 private servers.
@@ -18,8 +14,7 @@ For more information on Pokémon Showdown, visit the main
 [Pokémon Showdown](https://github.com/Zarel/Pokemon-Showdown) repository.
 
 ## Features
-
-- Numerous *cool* [commands](chat-plugins/EXTRA_COMMANDS) such as /urbandefine or /poof
+- Cool Commands
 - Emoticons in chat and private messages
 - Hangman, Profile, and Tells
 - Economy (bucks system, shop, tournament winnings)
@@ -34,11 +29,15 @@ $ cd Showdown-Boilerplate && npm install
 $ node app.js
 ```
 
-## Maintainers
+## Credits
 
-This boilerplate is brought to you and maintained by the following people:
+CreaturePhil, Zarel, and anyone else we owe credit to: Making pokemon showdown and the boilerplate possible.
 
-Ceature Phil, Stellation, Alfastorm
+Stellation: Admin
+
+Alfastorm (Alphawind): Admin
+
+Deathlyplays (Insist): coder, sysop
 
 ## License
 
